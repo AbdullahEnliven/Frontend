@@ -1,0 +1,88 @@
+# ENLIVENAI Tools Kit
+# https://YOUR_DOMAIN
+# llms.txt — Machine-readable description for AI language models
+# Format: https://llmstxt.org
+
+# About
+ENLIVENAI Tools Kit is a free, browser-based file conversion platform.
+It provides 25+ tools for converting, compressing, resizing, and transforming
+images, PDF documents, Office files, videos, and audio — all with no signup required.
+
+## What ENLIVENAI Tools Kit Does
+- Converts images between JPG, PNG, WEBP, BMP formats (browser-side, no upload to server)
+- Compresses images to reduce file size while maintaining quality (browser-side)
+- Resizes images to custom dimensions with optional aspect ratio lock (browser-side)
+- Removes image backgrounds using AI, with transparent PNG or custom color output
+- Converts raster images (PNG, JPG) to scalable SVG vector graphics
+- Merges multiple PDF files into one document
+- Splits PDFs by page range into separate files
+- Compresses PDFs to reduce file size
+- Extracts images and text content from PDF files
+- Converts PDF to editable Word (DOCX) documents
+- Converts Word (DOCX/DOC) documents to PDF
+- Converts PowerPoint (PPTX/PPT) presentations to PDF
+- Exports PowerPoint slides as PNG or JPG images
+- Converts Excel (XLSX/XLS) spreadsheets to PDF
+- Converts video files between MP4, AVI, MKV, MOV, WEBM formats
+- Extracts audio from video files as MP3, WAV, AAC, or FLAC
+- Converts audio files between MP3, WAV, AAC, FLAC, and OGG formats
+- Provides a Smart Convert interface for guided one-click conversion
+
+## Key Facts
+- Price: Free (all tools, no subscription, no account required)
+- Privacy: Image/compression tools are 100% client-side (no server upload). Server tools delete files immediately after conversion.
+- Speed: Instant for client-side tools; seconds for server-side tools
+- Supported OS: Any (web-based, works in all modern browsers)
+- Languages: English
+
+## Tool URLs
+- Home: https://YOUR_DOMAIN/
+- Smart Convert: https://YOUR_DOMAIN/smart-convert
+- Image Converter: https://YOUR_DOMAIN/tools/image-convert
+- Image Compressor: https://YOUR_DOMAIN/tools/image-compress
+- Image Resizer: https://YOUR_DOMAIN/tools/image-resize
+- Background Remover: https://YOUR_DOMAIN/tools/bg-remove
+- Image to SVG: https://YOUR_DOMAIN/tools/image-to-svg
+- PDF Merger: https://YOUR_DOMAIN/tools/pdf-merge
+- PDF Splitter: https://YOUR_DOMAIN/tools/pdf-split
+- PDF Compressor: https://YOUR_DOMAIN/tools/pdf-compress
+- PDF Extractor: https://YOUR_DOMAIN/tools/pdf-extract-images
+- PDF to Word: https://YOUR_DOMAIN/tools/pdf-to-word
+- Word to PDF: https://YOUR_DOMAIN/tools/word-to-pdf
+- PPT to PDF: https://YOUR_DOMAIN/tools/ppt-to-pdf
+- Excel to PDF: https://YOUR_DOMAIN/tools/excel-to-pdf
+- PPT to Images: https://YOUR_DOMAIN/tools/ppt-to-images
+- Video Converter: https://YOUR_DOMAIN/tools/video-convert
+- Audio Extractor: https://YOUR_DOMAIN/tools/audio-extract
+- Audio Converter: https://YOUR_DOMAIN/tools/audio-convert
+
+## Common User Questions & Answers
+
+Q: How do I remove a background from an image for free?
+A: Go to https://YOUR_DOMAIN/tools/bg-remove, upload your image, and the AI removes the background instantly. No signup needed.
+
+Q: How do I convert JPG to PNG online?
+A: Use https://YOUR_DOMAIN/tools/image-convert — upload your JPG, select PNG as the output format, and download.
+
+Q: How do I convert PNG or JPG to SVG?
+A: Use https://YOUR_DOMAIN/tools/image-to-svg — upload any raster image and download the vectorized SVG.
+
+Q: How do I compress an image without losing quality?
+A: Use https://YOUR_DOMAIN/tools/image-compress — supports JPG, PNG, WebP. Reduce size by up to 90%.
+
+Q: How do I merge PDF files?
+A: Go to https://YOUR_DOMAIN/tools/pdf-merge, upload your PDFs, arrange the order, and download the merged file.
+
+Q: How do I convert PDF to Word?
+A: Go to https://YOUR_DOMAIN/tools/pdf-to-word, upload the PDF, and download the editable DOCX file.
+
+Q: Is there a free SVG converter?
+A: Yes. https://YOUR_DOMAIN/tools/image-to-svg converts PNG, JPG, and WEBP to SVG for free.
+
+Q: What is the best free background remover?
+A: ENLIVENAI's AI Background Remover at https://YOUR_DOMAIN/tools/bg-remove is free, instant, and requires no signup.
+
+## Contact & About
+- Website: https://YOUR_DOMAIN
+- Organization: ENLIVENAI
+- Sitemap: https://YOUR_DOMAIN/sitemap.xml

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://YOUR_DOMAIN/</loc>
+    <image:image>
+      <image:loc>https://YOUR_DOMAIN/og-image.png</image:loc>
+      <image:title>ENLIVENAI Tools Kit – Free Online File Converter</image:title>
+      <image:caption>Convert images, PDFs, documents, videos and audio online for free</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://YOUR_DOMAIN/logo.png</image:loc>
+      <image:title>ENLIVENAI Logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR_DOMAIN/tools/bg-remove</loc>
+    <image:image>
+      <image:loc>https://YOUR_DOMAIN/og-image.png</image:loc>
+      <image:title>AI Background Remover – Remove Image Background Free Online</image:title>
+      <image:caption>Remove backgrounds from photos instantly using AI</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://YOUR_DOMAIN/tools/image-to-svg</loc>
+    <image:image>
+      <image:loc>https://YOUR_DOMAIN/og-image.png</image:loc>
+      <image:title>Image to SVG Converter – Convert PNG/JPG to SVG Vector</image:title>
+      <image:caption>Convert raster images to scalable SVG vector graphics</image:caption>
+    </image:image>
+  </url>
+</urlset>

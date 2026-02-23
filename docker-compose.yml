@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  frontend:
+    image: enlivensai-tools-frontend:latest
+    container_name: enlivensai_tools_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"   # Container port 80 → Host port 3000 (Nginx will proxy to this)
+    environment:
+      - NODE_ENV=production
